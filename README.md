@@ -27,6 +27,3 @@ npm run preview
 - Tailwind CSS
 - shadcn-ui
 
-## License
-MIT
-# rohannavalyal_portfolio
